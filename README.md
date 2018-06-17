@@ -1,6 +1,7 @@
 # Instagram-KDA
 
 Сервер
+(Клиент находится в репозитории Instagram-client-KDA)
 
 Node JS, WebSocket, PostgreSQL, Angular 1
 
