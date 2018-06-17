@@ -1,0 +1,10 @@
+{
+	"port": 3000,
+	"postgre_sql": {
+		"user": "KDA",
+		"password": "root",
+		"host": "localhost",
+		"port": "5432",
+		"database": "instagram"
+	}
+}

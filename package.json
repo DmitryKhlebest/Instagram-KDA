@@ -1,0 +1,11 @@
+{
+  "name": "Instagram",
+  "version": "0.0.1",
+  "dependencies": {
+    "redis": "latest",
+    "async-redis": "^1.1.4",
+    "nconf": "^0.10.0",
+    "pg": "latest",
+    "ws": "^5.2.0"
+  }
+}
